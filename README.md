@@ -19,12 +19,12 @@ My name is Erik, and I'm an iOS Engineer. Addicted to clean and beautiful soluti
 
 ### 🔭 I’m currently working on
 
-- [StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client ![GitHub Repo stars](https://img.shields.io/github/stars/surfstudio/StackOv)
+- [StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client [![GitHub Repo stars](https://img.shields.io/github/stars/surfstudio/StackOv)](https://github.com/surfstudio/StackOv)
 - [RService](https://github.com/ephedra-software/RService) - Network service pattern
 
 ### 🌏 Find me around the web
 
-- [Twitter](https://twitter.com/puasonych) ![Twitter Follow](https://img.shields.io/twitter/follow/puasonych?color=blue&label=Follow&logo=Twitter&logoColor=white&style=flat-square)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/puasonych?color=blue&label=Follow&logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/puasonych)
 - [Telegram](https://t.me/erik_basargin)
 
 ### 📚 My articles
