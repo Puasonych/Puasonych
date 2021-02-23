@@ -26,6 +26,7 @@ My name is Erik, and I'm an iOS Engineer. Addicted to clean and beautiful soluti
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/puasonych?color=blue&label=Follow&logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/puasonych)
 - [Telegram](https://t.me/erik_basargin)
+- [LinkedIn](https://www.linkedin.com/in/basargin-erik/)
 
 ### 📚 My articles
 
