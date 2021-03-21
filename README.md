@@ -28,7 +28,4 @@ My name is Erik, and I'm an iOS Engineer. Addicted to clean and beautiful soluti
 - [Telegram](https://t.me/erik_basargin)
 - [LinkedIn](https://www.linkedin.com/in/basargin-erik/)
 
-### 📚 My articles
-
-- [SPM: modularization of the project to increase the building speed](https://habr.com/en/company/surfstudio/blog/527460/)
-- [Confusing extensions in Swift](https://puasonych.medium.com/confusing-extensions-in-swift-a71b2c93df2)
+### 📚 [My blog](https://github.com/Puasonych)
