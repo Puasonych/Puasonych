@@ -28,4 +28,4 @@ My name is Erik, and I'm an iOS Engineer. Addicted to clean and beautiful soluti
 - [Telegram](https://t.me/erik_basargin)
 - [LinkedIn](https://www.linkedin.com/in/basargin-erik/)
 
-### 📚 [My blog](https://github.com/Puasonych)
+### 📚 [My blog](https://puasonych.github.io)
